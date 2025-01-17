@@ -10,6 +10,15 @@ PodCast - Animais Algorítmicos: Histórias fantásticas sobre a magia da inteli
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
+## 🧠 Prompts
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | você é um roteirista muito bem humorado de podcast e vai criar um crie um nome para um podcast de tecnologia focado em IA cujo público alvo ainda não conhece o que a IA é capaz de fazer , dê ao menos 5 sugestões o podcast vai falar sobre novidades e dicas sobre IA - REGRAS:*O NOME DEVE SER ENXUTO e ter um subtítulo, o nome deve ter algum trocadilho relacionado ao conteúdo de filmes como O Senhor dos Anéis, Animais Fantásticos ou Harry Potter, deverá remeter a algo precioso no futuro tecnológico  REGRA NEGATIVA: não deve conter palavras estrangeiras, exceto se for nome próprio                              |
+| conteúdo | crie um roteiro muito bem humorado para o podcast sobre tecnologia focada em IA, cujo público alvo ainda não conhece o que a IA é capaz de fazer O formato dever ter *INTRODUÇÃO *CURIOSIDADE 1 *CURIOSIDADE 2 *CURIOSIDADE 3 *DICAS *FINALIZAÇÃO REGRAS:*o nome do podcast é "Animais Algorítmicos" Subtítulo: Histórias fantásticas sobre a magia da inteligência artificial *no bloco (INTRODUÇÃO) deve ter o estilo de uma apresentação dos ganhadores do Oscar e algum trocadilho com o filme “Animais Fantásticos” *use termos de fácil compreensão *use uma linguagem descolada e voltada para pessoas que adoram filmes do harry potter *no bloco (FINALIZAÇÃO) faça uma despedida cool com final “Eu sou a Kely Silk e esse foi o PodMágico dessa semana” REGRAS NEGATIVAS: *não use termos em inglês utilizadas e fazer referencia se tiver algum código no conteúdo, insira exemplos práticos de soluções e tecnologias que foram bem sucedidas e outros países                                                                                                                                                                              |
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
