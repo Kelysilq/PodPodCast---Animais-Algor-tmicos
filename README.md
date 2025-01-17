@@ -63,6 +63,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com muito ❤️ por 
+⌨️ com muito ❤️ por [Kely Silk](https://github.com/Kelysilq)
   
   
