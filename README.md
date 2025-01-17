@@ -2,9 +2,11 @@
 PodCast - Animais Algorítmicos: Histórias fantásticas sobre a magia da inteligência artificial
 
 # Projeto Podcast Gerado por I.A.s
+> Curta esse PodCast Fantástico! 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso na plataforma [DIO](https://dio.me)
 
 > Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+> Olha só como ficou o PodCast [Animais Algorítimicos: Histórias fantásticas sobre a magia da inteligência artificial](https://github.com/Kelysilq/PodPodCast---Animais-Algor-tmicos/blob/main/Podcast%20Animais%20Algor%C3%ADtmicos.mp3)
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
